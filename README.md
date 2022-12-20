@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick,
 - 👀 I’m interested in programming,
-- 🌱 I’m currently learning Javascript and Rust,
+- 🌱 I’m currently learning Javascript, Rust and C#
 - 📫 How to reach me patrickmoreno444@gmail.com
 
 <!---
